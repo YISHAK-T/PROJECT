@@ -1,13 +1,6 @@
 # HELLO
 
 
-NEW PROJECT
+NEW PROJECT  on GitHUB
 
 
-## SUB FOLDER
-
-
-comment new 1
-
-
-heloo
